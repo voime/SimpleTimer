@@ -4,4 +4,4 @@ This is a fork of the SimpleTimer library from Marcello Romani (http://playgroun
 
 ## Additional Features
 
-* Support lambda-expressions / std::function callbacks
+* can change timer delay delayTimer(long d, int TimerNum)
